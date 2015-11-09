@@ -3,7 +3,7 @@
 1. Download latest ClojureScript JAR
 
     ```
-    curl -O -L 'https://github.com/clojure/clojurescript/releases/download/r1.7.145/cljs.jar'
+    curl -O -L 'https://github.com/clojure/clojurescript/releases/download/r1.7.170/cljs.jar'
     ```
 
 2. Build
